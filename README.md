@@ -5,13 +5,14 @@ Create a Wordcloud using NLP and TF-IDF
 Requirements
 
 requirements.txt
+
 Methods Used
 
-Machine Learning
-
-Data Visualization
-
-Predictive Modeling
+NLTK
+matplotlib
+pandas
+sklearns
+wordcloud
 Technologies
 
 Python
