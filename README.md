@@ -1,40 +1,27 @@
 # WordCloud
-About
+##About
 
 Create a Wordcloud using NLP and TF-IDF
-Requirements
+##Requirements
 
 requirements.txt
 
-Methods Used
+##Methods Used
+
+##Technologies
+
+Python
 
 NLTK
 matplotlib
 pandas
 sklearns
 wordcloud
-Technologies
 
-Python
-
-Pandas
-
-Numpy
-
-Matplotlib
-
-Seaborn
-
-Joblib
-
-Sklearn
-
-Imblearn
-
-Jupyter
-Data Sources
+##Data Sources
 
 credit_score.csv
-Author
+
+##Author
 
 Agnieszka Bielicka
