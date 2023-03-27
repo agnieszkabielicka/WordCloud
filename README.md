@@ -24,7 +24,13 @@ Wordcloud
 
 ## Data Sources
 
-credit_score.csv
+Figure_1.png
+
+Figure_1.png
+
+recipes.json
+
+recipes_worldcloud.png
 
 ## Author
 
