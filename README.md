@@ -8,6 +8,10 @@ requirements.txt
 
 ## Methods Used
 
+Lemmatization
+
+Stemming
+
 ## Technologies
 
 Python
