@@ -13,10 +13,14 @@ requirements.txt
 Python
 
 NLTK
-matplotlib
-pandas
-sklearns
-wordcloud
+
+Matplotlib
+
+Pandas
+
+Sklearns
+
+Wordcloud
 
 ## Data Sources
 
